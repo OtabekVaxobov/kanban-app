@@ -21,4 +21,4 @@ Beyond development, the boilerplate supports other tasks listed below:
 * `npm run test:tdd` - Runs `tests/` in a TDD mode (watches for changes and rebuilds).
 * `npm run test:lint` - Runs code through ESLint to spot code quality issues.
 * `npm run stats` - Generates Webpack build statistics. See the [Analyzing Build Statistics](http://survivejs.com/webpack/building-with-webpack/analyzing-build-statistics/) chapter.
-# kanban-app
+# kanban-appggg
